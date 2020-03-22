@@ -1,5 +1,5 @@
 /**
-*https://github.com/alexburndev/spas/blob/master/spas.sol
+*https://github.com/alexburndev/KTM/blob/master/ktmtoken.sol
 *
 *Developed by Alex Burn
 */
